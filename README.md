@@ -86,7 +86,7 @@ Clique em `Browse Collections`
 
 ![alt text](image-9.png)
 
-Pronto já configuramos o projeto no Mongodb. Agora vamos voltar para o node Nodejs.
+Pronto já configuramos o projeto no Mongodb. Agora vamos voltar para o Nodejs.
 
 ## Iniciando do servidor
 
