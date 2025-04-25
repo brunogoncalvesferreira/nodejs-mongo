@@ -88,7 +88,7 @@ Clique em `Browse Collections`
 
 Pronto já configuramos o projeto no Mongodb. Agora vamos voltar para o Nodejs.
 
-## Iniciando do servidor
+## Iniciando o servidor
 
 No arquivo `server.js` vamos iniciar o servidor com o fastify.
 
